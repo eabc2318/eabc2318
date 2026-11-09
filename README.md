@@ -1,8 +1,12 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/Wx4iC87kJvak1DY2MM/giphy.gif" alt="Joy Division" width="100%" />
-
   ## 2nd-Year Computer Science Student (BUT Informatique)
+
+  <p>
+    <a href="mailto:mathias.m2502@gmail.com">
+      <img src="https://img.shields.io/badge/Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Contact Email" />
+    </a>
+  </p>
 
   ---
 
@@ -35,10 +39,9 @@
 
   ---
 
-  ### Most Used Languages
+  <br />
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eabc2318&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </p>
+  <!-- Bottom Visual -->
+  <img src="https://media.giphy.com/media/Wx4iC87kJvak1DY2MM/giphy.gif" alt="Joy Division" width="250" />
 
 </div>
